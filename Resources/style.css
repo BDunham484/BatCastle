@@ -1,0 +1,148 @@
+.background {
+    viewport-fill: black;
+  }
+  
+  #myLabel {
+    font-size: 80;
+    font-family: System-Bold;
+    text-length: 32;
+    text-anchor: middle;
+    x: 50%;
+    y: 90%;
+    fill: antiquewhite;
+  }
+  
+  #heartLabel {
+    font-size: 25;
+    font-family: Seville-Bold;
+    text-length: 32;
+    text-anchor: end;
+    x: -5;
+    fill: antiquewhite;
+  }
+  
+  #heartIcon {
+    width: 25;
+    height: 25;
+    href: "images/heart_rate_black_transparent_36px.png";
+    }
+  
+  #stepsLabel {
+    font-size: 25;
+    font-family: System-Bold;
+    text-length: 32;
+    text-anchor: start;
+    x: 30;
+    fill: antiquewhite;
+  }
+  
+  #stepsIcon {
+    width: 25;
+    height: 25;
+    href: "images/steps_black_transparent_36px.png";
+  }
+  
+  #caloriesLabel {
+    font-size: 25;
+    font-family: System-Bold;
+    text-length: 32;
+    text-anchor: start;
+    x: 30;
+    fill: antiquewhite;
+  }
+  
+  #caloriesIcon {
+    width: 25;
+    height: 25;
+    href: "images/calories_black_transparent_36px.png";
+  }
+  
+  #activeLabel {
+    font-size: 25;
+    font-family: System-Bold;
+    text-length: 32;
+    text-anchor: middle;
+    x: 13;
+    y: 50;
+    fill: antiquewhite;
+  }
+  
+  #activeIcon {
+    width: 25;
+    height: 25;
+    href: "images/azm_orange_transparent_36px.png";
+  }
+  
+  #floorsLabel {
+    font-size: 25;
+    font-family: System-Bold;
+    text-length: 32;
+    text-anchor: end;
+    x: -5;
+    fill: antiquewhite;
+  }
+  
+  #floorsIcon {
+    width: 25;
+    height: 25;
+    href: "images/floors_black_transparent_36px.png";
+  }
+  
+  #distanceLabel {
+    font-size: 25;
+    font-family: System-Bold;
+    text-length: 32;
+    text-anchor: start;
+    x: 30;
+    fill: antiquewhite;
+  }
+  
+  #distanceIcon {
+    width: 25;
+    height: 25;
+    href: "images/distance_black_transparent_36px.png";
+  }
+  
+  #powerLabel {
+    font-size: 25;
+    font-family: System-Bold;
+    text-length: 32;
+    text-anchor: start;
+    x: 0;
+    fill: antiquewhite;
+  }
+  
+  #batImg {
+    width: 40;
+    height: 22;
+    href: "images/battery-100.png";
+    x: -45;
+    fill: #000000;
+  }
+  
+  #monthLabel {
+    font-size: 30;
+    font-family: System-Bold;
+    text-length: 32;
+    text-anchor: end;
+    x: 30;
+    fill: antiquewhite;
+  }
+  
+  #dayLabel {
+    font-size: 30;
+    font-family: System-Bold;
+    text-length: 32;
+    text-anchor: start;
+    x: 35;
+    fill: antiquewhite;
+  }
+  
+  #dayNameLabel {
+    font-size: 30;
+    font-family: System-Bold;
+    text-length: 32;
+    text-anchor: end;
+    x: -25;
+    fill: antiquewhite;
+  }
